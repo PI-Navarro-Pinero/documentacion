@@ -7,5 +7,5 @@
 
 **Propuesta del proyecto**
 
-La propuesta presentada puede encontrarse en 
+La propuesta presentada puede encontrarse en [PROPUESTA.md](PROPUESTA.md) o 
 [este enlace](https://docs.google.com/document/d/1GQc9GoHYgyAiDGOI61Ge8NXVyK5KAfuLuOzDf7osDfE/edit?usp=sharing).
