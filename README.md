@@ -27,7 +27,7 @@ Nuestra ajustada disponibilidad horaria nos impide implementar de manera estrict
 
 Aquí en Github alojamos el proyecto y empleamos Github-Flow como flujo de trabajo: un modelo iterativo y de despliegue constante.
 1. Lo que se encuentra en la rama _master_ está listo para ser puesto en producción.
-2. Al momento de incluir mejoras, funcionalidades o corrección de bugs/errores, se crea un _issue_ describiendo en qué consiste esta modificación, para qué repositorio es y quién realizará dicha tarea. Estos _issues_ y sus estados pueden visualizarse en al [tablero Kan-Ban](https://github.com/orgs/PI-Navarro-Pinero/projects/1).
+2. Al momento de incluir mejoras, funcionalidades o corrección de bugs/errores, se crea un _issue_ describiendo en qué consiste esta modificación, para qué repositorio es y quién realizará dicha tarea. Estos _issues_ y sus estados pueden visualizarse en el [tablero Kan-Ban](https://github.com/orgs/PI-Navarro-Pinero/projects/1).
 3. Al tomar uno de los _issues_ se debe crear, a partir del master, una nueva rama con un nombre descriptivo que esté asociada a dicha _issue_.
 4. Cuando se necesite ayuda, información o se crea que la rama está lista para ser integrada a la rama _master_, se abre un _Pull Request_.
 5. El otro integrante del equipo revisará los cambios, quien solicitará cambios o aprobará el _PR_ para fusionarlos con la rama _master_.
