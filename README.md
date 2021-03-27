@@ -11,7 +11,7 @@ La propuesta presentada puede encontrarse en [PROPUESTA.md](PROPUESTA.md).
 
 **Informe del Proyecto**
 
-Utilizamos _Overleaf_ para desarrollar el informe del proyecto. El enlace con permisos de lectura es el siguiente: [Informe](https://es.overleaf.com/read/rsppvwwtzpms)
+Utilizamos _Overleaf_ para desarrollar el informe del proyecto. El enlace con permisos de lectura es el siguiente: [Informe](https://es.overleaf.com/read/cgkcdqfdxnhw)
 
 ---
 
