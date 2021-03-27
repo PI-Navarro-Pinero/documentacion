@@ -9,14 +9,14 @@
 
 La propuesta presentada puede encontrarse en [PROPUESTA.md](PROPUESTA.md).
 
-**Informe del Proyecto (_enlace aún no disponible_)**
+**Informe del Proyecto**
 
-Utilizamos _Overleaf_ para desarrollar el informe del proyecto. 
+Utilizamos _Overleaf_ para desarrollar el informe del proyecto. El enlace con permisos de lectura es el siguiente: [Informe](https://es.overleaf.com/read/rsppvwwtzpms)
 
 ---
 
 ### Flujo de Trabajo
-_Todas estas herramientas tienen acceso a lectura utilizando el correo de la UNC_
+_Todas estas herramientas tienen permiso de lectura utilizando el correo de la UNC_
 
 - **Organización semanal**: [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y18zcXA5YWtmZGhjN2U2M2g4Y25qazRwbGxha0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) para conocer e ir comunicando nuestras disponibilidades.
 - **Alojamiento de archivos**: [Google Drive](https://drive.google.com/drive/folders/1Rg1NTkIZwqG5SRTmGsobhuB6qRFj78Vz?usp=sharing) para compartir y sincronizar archivos de utilidad como diagramas, documentos, imagenes, etc.
