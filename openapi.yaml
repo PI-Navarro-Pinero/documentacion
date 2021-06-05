@@ -552,6 +552,13 @@ paths:
             minimum: 1
             type: integer
             format: int64
+        - name: command 
+          description: Parametro necesario para le ejecucion
+          in: query
+          required: false
+          schema:
+            type: string
+          
       responses:
         '200':
           description: successful operation
